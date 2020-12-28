@@ -2,7 +2,7 @@ package loyalty
 
 import "fmt"
 
-func main() {
+func init() {
 	fmt.Println("Init")
 }
 
